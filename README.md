@@ -1,4 +1,4 @@
-## Github_Assignment
+## GitHub_Assignment
 
 Name: Fatima Reffai
 
