@@ -9,3 +9,7 @@ BS Artificial Intelligence/Semester 1st
 
 Career Goals:
 Aspiring AI Engineer dedicated to developing intelligent systems that solve real-world problems.
+## Skills
+- C++ Programming
+- Problem Solving
+- Basic Web Development (HTML/CSS)
